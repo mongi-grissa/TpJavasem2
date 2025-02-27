@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class tp7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        $ù
         int nl, nc;
         do {
             System.out.print("Entrez le nombre de lignes ");
